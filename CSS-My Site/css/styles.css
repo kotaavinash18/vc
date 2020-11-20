@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+
+}
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+  bottom: 20px;
+}
+.bottom{
+  position: absolute;
+  bottom: 300px;
+}
+.top{
+  margin-left: 150px;
+  top:50px;
+  bottom: 50px;
+  position: absolute;
+}
+h3{
+  font-family: 'Lato', sans-serif;
+}
+p{
+  font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+}
+.footer-link:hover{
+  color: red;
+}
+.contact-me:hover{
+  color:blue;
+}
+.pb{
+  border-radius: 50%;
+}
